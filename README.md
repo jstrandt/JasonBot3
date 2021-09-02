@@ -1,2 +1,2 @@
 # JasonBot3
-Simple test bot dor Discord
+Simple test bot for Discord
